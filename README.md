@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**sainithika/sainithika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a **Full-Stack Developer** who enjoys building cool and meaningful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+- 💻 Full-stack dev who likes building cool things  
+- 🎨 Sketching manga panels | 📺 Watching anime  
+- 🏋️‍♀️ Lifting weights | 🥊 Doing boxing  
+- 📍 Based in Hyderabad, open to collaboration  
+
+### 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, React  
+- Backend: Python, Java, C  
+- Other: R, Photoshop  
+
+Let's connect and create something awesome together!
