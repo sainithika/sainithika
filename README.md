@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 
 I'm a **Full-Stack Developer** who enjoys building cool and meaningful projects.
